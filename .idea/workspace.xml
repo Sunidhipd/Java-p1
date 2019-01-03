@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79207272-cb11-4b57-9e99-551cf7cb24d1" name="Default Changelist" comment="" />
+    <list default="true" id="79207272-cb11-4b57-9e99-551cf7cb24d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q10_reverse_lastN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Q10_reverse_lastN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q1_palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q2_ODD_EVEN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q3_Vowel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q4_Iteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q5_Integer_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q6_Character_Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Q6_Character_Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q7_even_digit_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Q7_even_digit_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q8_number_guess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Q8_number_guess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment1/Q9_String_Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment1/Q9_String_Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10_reverse_lastN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1_palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2_ODD_EVEN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3_Vowel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4_Iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5_Integer_Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6_Character_Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7_even_digit_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8_number_guess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9_String_Reverse.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,47 +37,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q5_Integer_Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q1_palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q4_Iteration.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Q2OddEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-line="8" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q3_Vowel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q2_ODD_EVEN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +55,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,24 +78,60 @@
         <option value="$PROJECT_DIR$/src/Q1_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Q1_palindrome.java" />
         <option value="$PROJECT_DIR$/src/Q2_ODD_EVEN.java" />
-        <option value="$PROJECT_DIR$/src/Q3_Vowel.java" />
         <option value="$PROJECT_DIR$/src/Q4_inputIteration.java" />
         <option value="$PROJECT_DIR$/src/Q4_Iteration.java" />
+        <option value="$PROJECT_DIR$/src/Q3_Vowel.java" />
+        <option value="$PROJECT_DIR$/Tests/Q3_VowelTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/Q3_VowelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q3_Vowel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/java/Q3_Vowel.java" />
+        <option value="$PROJECT_DIR$/src/main/Q1_palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q1_palindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q2_ODD_EVENTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q3_VowelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q5_Integer_Sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q6_Character_Case.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q6_Character_CaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q9_String_Reverse.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q9_String_ReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q10_reverse_lastN.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q10_reverse_lastNTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q4_Iteration.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q4_IterationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q7_even_digit_sum.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q7_even_digit_sumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q8_number_guess.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q8_number_guessTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q2_ODD_EVEN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q1_palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q2oddEven.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q2OddEven.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q5_Integer_SumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q3VowelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Tests/Q5IntegerSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q1Palindrome.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="837" />
-    <option name="y" value="68" />
-    <option name="width" value="455" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="425" />
     <option name="height" value="634" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,18 +144,55 @@
               <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546239898046" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546497540491" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,49 +206,77 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q5_Integer_Sum">
-    <configuration name="Q10_reverse_lastN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q10_reverse_lastN" />
+  <component name="RunManager" selected="JUnit.Q5IntegerSumTest">
+    <configuration name="Q1Palindrome" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1Palindrome" />
+      <module name="Assignment1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2OddEven" />
       <module name="Assignment1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_palindrome" />
+    <configuration name="Q8NumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q8NumberGuess" />
       <module name="Assignment1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3_Vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_Vowel" />
+    <configuration name="Q5IntegerSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Q5IntegerSumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q4_Iteration" />
+    <configuration name="Q5IntegerSumTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Q5IntegerSumTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_Integer_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q5_Integer_Sum" />
+    <configuration name="Q8NumberGuessTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Q8NumberGuessTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Q1Palindrome" />
+      <item itemvalue="JUnit.Q5IntegerSumTest.testSum" />
+      <item itemvalue="Application.Q8NumberGuess" />
+      <item itemvalue="JUnit.Q8NumberGuessTest.testSum" />
+      <item itemvalue="Application.Q2OddEven" />
+      <item itemvalue="JUnit.Q5IntegerSumTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q5_Integer_Sum" />
-        <item itemvalue="Application.Q4_Iteration" />
-        <item itemvalue="Application.Q3_Vowel" />
-        <item itemvalue="Application.Q1_palindrome" />
-        <item itemvalue="Application.Q10_reverse_lastN" />
+        <item itemvalue="JUnit.Q5IntegerSumTest" />
+        <item itemvalue="Application.Q2OddEven" />
+        <item itemvalue="JUnit.Q8NumberGuessTest.testSum" />
+        <item itemvalue="JUnit.Q5IntegerSumTest.testSum" />
+        <item itemvalue="Application.Q8NumberGuess" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +293,71 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Q10_reverse_lastNTest_Test_appended_Word - 2019.01.03 at 01h 22m 15s.xml">
+      <configuration name="Q10_reverse_lastNTest.Test_appended_Word" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q4_IterationTest - 2019.01.03 at 09h 24m 15s.xml">
+      <configuration name="Q4_IterationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q7_even_digit_sumTest_iterator - 2019.01.03 at 10h 04m 37s.xml">
+      <configuration name="Q7_even_digit_sumTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest_testSum - 2019.01.03 at 10h 32m 00s.xml">
+      <configuration name="Q5_Integer_SumTest.testSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest_testSum - 2019.01.03 at 10h 35m 11s.xml">
+      <configuration name="Q5_Integer_SumTest.testSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest_testSum - 2019.01.03 at 10h 36m 28s.xml">
+      <configuration name="Q5_Integer_SumTest.testSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest_testSum1 - 2019.01.03 at 10h 36m 42s.xml">
+      <configuration name="Q5_Integer_SumTest.testSum1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest_testSum1 - 2019.01.03 at 10h 38m 21s.xml">
+      <configuration name="Q5_Integer_SumTest.testSum1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q8_number_guessTest_testSum - 2019.01.03 at 10h 54m 22s.xml">
+      <configuration name="Q8_number_guessTest.testSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Q5_Integer_SumTest - 2019.01.03 at 11h 26m 07s.xml">
+      <configuration name="Q5_Integer_SumTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15403032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22825219" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.39739415" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.32960895" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24980047" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22825219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -211,147 +366,257 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.39739415" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.32960895" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24980047" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/Tests/Q8NumberGuessTest.java</url>
+          <line>21</line>
+          <properties class="Q8NumberGuessTest" method="testSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/vowel.java" />
+    <entry file="file://$PROJECT_DIR$/src/oddEven.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q6_Character_Case.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q7_even_digit_sum.java" />
+    <entry file="file://$PROJECT_DIR$/src/inputIteration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q8_number_guess.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q9_String_Reverse.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q10_reverse_lastN.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q2_oddEven.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q1_Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q4_inputIteration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q3_vowel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q5_Integer_Sum.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q4_Iteration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q1_palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q2_ODD_EVEN.java" />
+    <entry file="jar://$USER_HOME$/Downloads/junit-4.13-beta-1.jar!/org/junit/internal/builders/JUnit4Builder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vowel.java">
+    <entry file="file://$PROJECT_DIR$/Tests/Q3_VowelTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q3_Vowel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Q3_Vowel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/Q3_VowelTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/java/Q3_Vowel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/main/java/Q1_palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q3Vowel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="-62">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oddEven.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q6CharacterCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="270">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q6_Character_Case.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q6CharacterCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q7_even_digit_sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="8" column="42" selection-start-line="8" selection-end-line="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inputIteration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q1PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q8_number_guess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q9_String_Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q10ReverseLastN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="66">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q10_reverse_lastN.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q10ReverseLastNTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q5_Integer_Sum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q9StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q9StringReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1_palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q2_oddEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q2_ODD_EVEN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q4_inputIteration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q3_vowel.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q3_Vowel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q4IterationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#276#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q4_Iteration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q4Iteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="150">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q2OddEvenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="29" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q7EvenDigitSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q7EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q8NumberGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q8NumberGuessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q5IntegerSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q3VowelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Tests/Q5IntegerSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q1Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1751#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q2OddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -420,6 +685,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit-4.13-beta-1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
